@@ -1,0 +1,46 @@
+body {
+  background-color: #d6e2f0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.bodydiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 500px;
+  background-color: #94baf1;
+  box-shadow: 10px 10px 40px rgb(182, 179, 179);
+}
+img {
+  height: 60%;
+  width: 100%;
+  border-radius: 5px;
+}
+.inner-div {
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  width: 200px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.main-div {
+  padding: 10px;
+}
+
+.text {
+  font-family: "Courier New", Courier, monospace;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.smalltext {
+  font-size: 11px;
+  padding: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

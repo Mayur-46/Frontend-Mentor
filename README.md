@@ -1,1 +1,1 @@
-Repository containing all the mini projects built while practicing frontend
+ # Basic Clone of a Challenge given 
